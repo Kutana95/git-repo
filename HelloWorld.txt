@@ -1,4 +1,5 @@
-print("HelloWorld!");
-hello
-print("Hello my friend!");
-print("glad to see you");
+print("HelloWorld!");tr
+hellotr
+print("Hello my friend!");tr
+print("glad to see you");tr
+
