@@ -1,2 +1,5 @@
 print("HelloWorld!");tr
 hellotr
+print("Hello my friend!");tr
+print("glad to see you");tr
+
